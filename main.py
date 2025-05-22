@@ -19,5 +19,5 @@ if c == computer:
 elif (c == -1 and computer == 0) or (c == 0 and computer == 1) or (c == 1 and computer == -1):
     print("You win")
 else:
-    print("You lose, try again")
+    print("You lose, Better luck next time")
 # The game is a simple implementation of the classic game "Snake, Water, Gun"
